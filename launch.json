@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "java",
+        "name": "JavaFX Application",
+        "request": "launch",
+        "mainClass": "StudentManagementSystemGUI",
+        "vmArgs": "--module-path /home/derekyang/sms/lib --add-modules javafx.controls,javafx.fxml"
+      }
+    ]
+}
